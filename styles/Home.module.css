@@ -1,0 +1,13 @@
+.cardHeader{
+  position: relative;
+}
+
+.textCard{
+  position: absolute;
+  bottom: 20px;
+  left: 10px;
+  
+}
+.color{
+  color: red;
+}
